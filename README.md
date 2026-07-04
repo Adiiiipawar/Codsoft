@@ -88,7 +88,7 @@ CODSOFT/
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Pawar-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Pawar-blue?logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/aditya-pawar-3229752a3)
 [![GitHub](https://img.shields.io/badge/GitHub-CODSOFT-black?logo=github)](https://github.com/YOUR_GITHUB_HERE/CODSOFT)
 
 ---
