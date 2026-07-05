@@ -1,4 +1,4 @@
-# 🤖 CODSOFT Machine Learning Internship
+# CODSOFT Machine Learning Internship
 
 ![Machine Learning](https://img.shields.io/badge/Domain-Machine%20Learning-blue)
 ![Python](https://img.shields.io/badge/Language-Python-yellow)
