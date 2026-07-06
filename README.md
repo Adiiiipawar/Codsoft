@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 About This Repository
+## About This Repository
 
 This repository contains all 5 Machine Learning tasks completed as part of the **CodSoft ML Internship Program (Batch C6)**.
 
