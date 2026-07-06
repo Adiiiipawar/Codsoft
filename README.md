@@ -14,7 +14,7 @@
 
 ## About This Repository
 
-This repository contains all 5 Machine Learning tasks completed as part of the **CodSoft ML Internship Program (Batch C6)**.
+This repository contains all 5 Machine Learning tasks completed as part of the **CodSoft ML Internship Program **.
 
 Each task includes:
 - ✅ Clean, well-commented Jupyter Notebook
