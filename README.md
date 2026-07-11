@@ -8,7 +8,7 @@
 > **Intern:** Aditya Pawar  
 > **Batch:** June C6 | June 15 – July 15, 2026  
 > **Domain:** Machine Learning  
-> **College:** St. Francis Institute of Technology (SFIT),Mum
+> **College:** St. Francis Institute of Technology (SFIT),Mumb
 
 ---
 
