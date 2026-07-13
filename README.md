@@ -32,7 +32,7 @@ Each task includes:
 | 1 | [Movie Genre Classification](./Task1_Movie_Genre_Classification/) | TF-IDF, Multi-label Classification, NLP | 🔄 In Progress |
 | 2 | [Credit Card Fraud Detection](./Task2_Credit_Card_Fraud_Detection/) | Random Forest, SMOTE, Class Imbalance Handling | 🔄 In Progress |
 | 3 | [Customer Churn Prediction](./Task3_Customer_Churn_Prediction/) | Gradient Boosting, Churn Risk Score, EDA | 🔄 In Progress |
-| 4 | [Spam SMS Detection](./Task4_Spam_SMS_Detection/) | TF-IDF, Naive Bayes, WordCloud Visualization | 🔄 Completed|
+| 4 | [Spam SMS Detection](./Task4_Spam_SMS_Detection/) | TF-IDF, Naive Bayes, WordCloud Visualization |  Completed|
 | 5 | [Handwritten Text Generation](./Task5_Handwritten_Text_Generation/) | RNN, Character-level Language Model | 🔄 In Progress |
 
 ---
