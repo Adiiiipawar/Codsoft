@@ -38,9 +38,6 @@ Each task includes:
 
 Most CodSoft submissions follow the standard approach. Here's what I did differently:
 
-- 📊 **Spam SMS** → WordCloud of most spammy words + model comparison
-- ⚖️ **Credit Card Fraud** → SMOTE for class imbalance (most people skip this)
-- 📉 **Customer Churn** → Churn risk score % instead of plain Yes/No
 - 🎬 **Movie Genre** → Multi-label prediction (Action + Thriller simultaneously)
 - ✍️ **Handwritten Text** → Loss curve + generated samples visualized together
 
