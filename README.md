@@ -29,8 +29,8 @@ Each task includes:
 
 | # | Task | Techniques Used | Status |
 |---|------|----------------|--------|
-| 1 | [Spam SMS Detection](./Task4_Spam_SMS_Detection/) | TF-IDF, Naive Bayes, WordCloud Visualization |  ✅ Completed|
-| 2 | [Handwritten Text Generation](./Task5_Handwritten_Text_Generation/) | RNN, Character-level Language Model | 🔄 In Progress |
+| 4 | [Spam SMS Detection](./Task4_Spam_SMS_Detection/) | TF-IDF, Naive Bayes, WordCloud Visualization |  ✅ Completed|
+| 5 | [Handwritten Text Generation](./Task5_Handwritten_Text_Generation/) | RNN, Character-level Language Model | 🔄 In Progress |
 
 ---
 
