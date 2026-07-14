@@ -61,15 +61,6 @@ Environment  : Google Colab
 ```
 CODSOFT/
 ├── README.md
-├── Task1_Movie_Genre_Classification/
-│   ├── README.md
-│   └── movie_genre_classification.ipynb
-├── Task2_Credit_Card_Fraud_Detection/
-│   ├── README.md
-│   └── credit_card_fraud_detection.ipynb
-├── Task3_Customer_Churn_Prediction/
-│   ├── README.md
-│   └── customer_churn_prediction.ipynb
 ├── Task4_Spam_SMS_Detection/
 │   ├── README.md
 │   └── spam_sms_detection.ipynb
